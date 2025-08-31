@@ -4,7 +4,7 @@
 SO KINDLY APPRECIATE HAHAHA!!!
 
 
-##This project was built by following a tutorial from the YouTube channel Tech With Tim, titled "https://www.youtube.com/watch?v=th4OBktqK1I".
+## This project was built by following a tutorial from the YouTube channel Tech With Tim, titled "https://www.youtube.com/watch?v=th4OBktqK1I".
 
 --
 
