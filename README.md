@@ -1,4 +1,4 @@
-# spinner_gamble
+# SPINNER GAMBLE
 
 ## 💻 Text-Based Slot Machine
 
