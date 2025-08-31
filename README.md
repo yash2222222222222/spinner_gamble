@@ -27,7 +27,7 @@ This project is a simple, command-line slot machine game built with Python. 🎰
 ## 🔧 How to Run
 
 
-.  ** Just Run the script in Python IDE **: `spin.py`
+.  Just Run the script in Python IDE: `spin.py`
 
 ---
 
