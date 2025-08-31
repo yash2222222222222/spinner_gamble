@@ -1,5 +1,8 @@
 # SPINNER GAMBLE
 
+###YES ALL OF THIS BELOW IS WRITTEN BY AI BUT THE ACTUAL CODE IS WRITTEN BY ME 
+SO KINDLY APPRECIATE HAHAHA!!!
+
 ## 💻 Text-Based Slot Machine
 
 This project is a simple, command-line slot machine game built with Python. 🎰 Users can deposit virtual money, bet on a number of lines, and spin the reels to win or lose. The game is designed to be a fun way to demonstrate core programming concepts in a practical application.
